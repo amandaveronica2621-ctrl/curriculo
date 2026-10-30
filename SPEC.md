@@ -5,6 +5,7 @@
 **Formação:** Graduanda em Ciências Contábeis (Universidade Atitus) • Formação em Gestão de Recursos Humanos  
 **Especialização:** Departamento Pessoal Estratégico, Auditoria, Legislação Trabalhista e Compliance  
 **Publicação / Hospedagem:** GitHub Pages  
+**URL do Site no Ar:** https://amandaveronica2621-ctrl.github.io/curriculo/  
 **Metodologia:** Spec-Driven Development (Desenvolvimento Orientado a Especificações)  
 **Status da Especificação:** Aprovada com Dados Reais — Pronta para Planejamento de Implementação  
 
