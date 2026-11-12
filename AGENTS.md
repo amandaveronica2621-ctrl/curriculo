@@ -22,7 +22,7 @@ O projeto é o **portfólio profissional e vitrine de serviços de Amanda Veroni
    - **Experiência Comprovada:** 6 anos de atuação prática em Departamento Pessoal; atualmente responsável pela gestão de folha de empresa com mais de 500 funcionários.
    - **Principais Ferramental e Sistemas:** Totvs RM, Excel Avançado, eSocial, DCTFWeb, FGTS Digital e parametrização de CCTs.
    - **Serviços Oferecidos:** Gestão/Processamento Remoto de Folha de Pagamento (BPO), Mapeamento de Inconsistências & Auditoria de Eventos, Enquadramento Sindical e Compliance Trabalhista.
-   - **Canal de Conexão Oficial:** Perfil no LinkedIn (`https://www.linkedin.com/in/amanda-basso-dp`) e Perfil GitHub (`https://github.com/amandaveronica2621-ctrl`).
+   - **Canal de Conexão Oficial:** Perfil no LinkedIn (`https://www.linkedin.com/in/amanda-basso-dp`), WhatsApp / Telefone (`(54) 99128-6819` — `https://wa.me/5554991286819`), E-mail (`amanda.veronica2621@gmail.com`) e Perfil GitHub (`https://github.com/amandaveronica2621-ctrl`).
    - **Restrição Expressa:** Não incluir botão ou link de download de currículo em PDF (por decisão da Amanda, a presença profissional é concentrada exclusivamente no LinkedIn).
    - **Proibição Absoluta:** Nunca invente nomes de clientes reais, números falsificados ou credenciais não autorizadas. Quando necessário exemplificar processos, use termos neutros de mercado (ex.: "PMEs do setor de serviços e comércio").
 

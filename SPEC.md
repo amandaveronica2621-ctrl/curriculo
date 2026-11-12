@@ -81,7 +81,7 @@ O site apresentará 4 pilares de serviços principais:
 | **5** | **Metodologia de Atendimento Remoto** | Passo a passo transparente de como funciona a parceria remota (1. Diagnóstico e parametrização → 2. Rotina mensal e eSocial → 3. Relatórios gerenciais e suporte contínuo). | — |
 | **6** | **Sobre Amanda Basso** | Perfil profissional, graduação em Ciências Contábeis na Universidade Atitus, formação em Gestão de RH, histórico de 6 anos e postura consultiva. | Link para LinkedIn |
 | **7** | **Competências & Ferramental** | Painel técnico com Totvs RM, Excel Avançado, eSocial, DCTFWeb, FGTS Digital e Compliance CLT. | — |
-| **8** | **Contato & Conexão** | Ponto de contato direto via e-mail e canal oficial prioritário no **LinkedIn**. *(Sem download de currículo em PDF)*. | "Acessar Perfil no LinkedIn" |
+| **8** | **Contato & Conexão** | Ponto de contato direto via WhatsApp (`(54) 99128-6819`), e-mail oficial e canal no **LinkedIn**. *(Sem download de currículo em PDF)*. | "Conversar no WhatsApp" / "Acessar LinkedIn" |
 | **9** | **Rodapé** | Direitos autorais, indicação de atualização, links institucionais e navegação rápida ao topo. | — |
 
 ---
@@ -106,6 +106,7 @@ O site apresentará 4 pilares de serviços principais:
 - **Acessibilidade:** Padrões WCAG AA (alto contraste entre texto e fundo, links descritivos, suporte a leitores de tela).
 - **Responsividade:** Otimização para leitura impecável em smartphones, tablets e notebooks corporativos.
 - **Canais de Contato Exclusivos:**
+  - WhatsApp / Telefone: `(54) 99128-6819` (`https://wa.me/5554991286819`)
   - Perfil LinkedIn: `https://www.linkedin.com/in/amanda-basso-dp`
   - Perfil GitHub: `https://github.com/amandaveronica2621-ctrl`
   - E-mail Oficial: `amanda.veronica2621@gmail.com`

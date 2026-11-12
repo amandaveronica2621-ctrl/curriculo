@@ -77,6 +77,8 @@ Este guia foi elaborado para ser executado de forma **linear, sequencial e sem a
 
 - [x] **Tarefa 2.7:** **Seção de Contato e Conversão (`<section id="contato">`):**
   - Card central com convite para diagnóstico inicial sem compromisso.
+  - Link e botão oficial de WhatsApp (`(54) 99128-6819` / `https://wa.me/5554991286819`).
+  - Botão flutuante acessível de WhatsApp no canto inferior da página.
   - Botão oficial de destaque direcionando para `https://www.linkedin.com/in/amanda-basso-dp`.
   - Botão de envio de e-mail funcional com assunto pré-definido.
   - *Restrição Respeitada:* Zero menções ou links de download de currículo.
